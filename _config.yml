@@ -1,0 +1,15 @@
+# Site settings
+title: Flex UI
+description: > # this means to ignore newlines until "baseurl:"
+  Flexible UI Components
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "flex-ui.github.io" # the base hostname & protocol for your site
+github_username: flex-ui
+
+# Build settings
+markdown: kramdown
+
+collections:
+  components:
+    output: true
+    permalink: /components/:path/

@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="components">
+  <div class="components__content">
+    {% for item in site.components %}
+    <a href="{{ item.url | prepend: site.baseurl }}" class="components__button">{{ item.title }}</a>
+    {% endfor %}
+  </div>
+</div>
