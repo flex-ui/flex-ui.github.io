@@ -1,0 +1,20 @@
+{
+  "name": "flex-ui",
+  "version": "0.0.0",
+  "homepage": "https://github.com/flex-ui/flex-ui",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flex-ui-bootstrap": "*",
+    "flex-ui-button": "*"
+  }
+}

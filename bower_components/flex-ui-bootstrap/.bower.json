@@ -1,0 +1,28 @@
+{
+  "name": "flex-ui-bootstrap",
+  "homepage": "https://github.com/flex-ui/bootstrap",
+  "main": [
+    "bootstrap.scss"
+  ],
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>",
+    "Zura Gabievi <zura.gabievi@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "bd085d797d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bd085d797d62c4a7d08fce449cf78d521915433a"
+  },
+  "_source": "git://github.com/flex-ui/bootstrap.git",
+  "_target": "*",
+  "_originalSource": "flex-ui-bootstrap"
+}

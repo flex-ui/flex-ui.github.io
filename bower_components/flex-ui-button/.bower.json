@@ -1,0 +1,31 @@
+{
+  "name": "flex-ui-button",
+  "homepage": "https://github.com/flex-ui/button",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>",
+    "Zura Gabievi <zura.gabievi@gmail.com>"
+  ],
+  "main": [
+    "button.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "flex-ui-bootstrap": "*"
+  },
+  "_release": "9dcaf90253",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9dcaf902534dd6cff843a716de4dea1fa11590b0"
+  },
+  "_source": "git://github.com/flex-ui/button.git",
+  "_target": "*",
+  "_originalSource": "flex-ui-button"
+}
