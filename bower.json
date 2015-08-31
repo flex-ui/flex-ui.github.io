@@ -1,0 +1,7 @@
+{
+  "name": "flex-ui.github.io",
+  "private": true,
+  "dependencies": {
+    "flex-ui": "*"
+  }
+}
